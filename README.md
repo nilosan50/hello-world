@@ -1,4 +1,4 @@
 # hello-world
-Primeiro programa para conhecimento da utilização do GutHub
+Primeiro programa para conhecimento da utilização do GitHub
 Testando as funcionalidades do GITHUB
-par testa com outra necessidades de controle de versão de documentos.
+para testar com outra necessidade de controle de versão de documentos.
